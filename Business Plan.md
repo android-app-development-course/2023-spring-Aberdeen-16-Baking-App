@@ -68,13 +68,13 @@ The app may face legal issues if it uses copyrighted content without permission.
 
 To reach our target audience, we will use the following marketing channels:
 
-- Social Media Marketing: We will leverage social media platforms such as Weibo, Wechat and so on to promote our app and reach our target audience. We will create engaging and informative content that showcases the benefits of using locally sourced produce and the features of our app.
+- Social Media Marketing:  We will leverage social media platforms such as Weibo, Wechat and so on to promote our app and reach our target audience. We will create engaging and informative content that showcases the benefits of using locally sourced produce and the features of our app.
 
-- Influencer Marketing: We will collaborate with influencers in the health and wellness space to promote our app and reach a wider audience. We will work with influencers who share our values and can help us reach our target audience.
+- Influencer Marketing:  We will collaborate with influencers in the health and wellness space to promote our app and reach a wider audience. We will work with influencers who share our values and can help us reach our target audience.
 
-- App Store Optimization: We will optimize our app for the app store by using relevant keywords, creating a compelling app description, and using high-quality visuals. This will improve the visibility of our app and increase downloads.
+- App Store Optimization:  We will optimize our app for the app store by using relevant keywords, creating a compelling app description, and using high-quality visuals. This will improve the visibility of our app and increase downloads.
 
-- Partnerships: We will form partnerships with local farmers and food markets to promote our app and encourage the use of locally sourced produce. We will work with our partners to create exclusive deals and promotions for our app users.
+- Partnerships:  We will form partnerships with local farmers and food markets to promote our app and encourage the use of locally sourced produce. We will work with our partners to create exclusive deals and promotions for our app users.
 
 ## Financial Key Metrics:
 In order to ensure the success of our mobile app, it is important to keep track of certain financial key metrics. These metrics will help us determine if we are meeting our goals and making a profit. Some key metrics we will be tracking include:
