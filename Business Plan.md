@@ -15,7 +15,7 @@ The purpose of this business plan is to outline the development and launch of a 
 
 
 
-**Functions of the Software:**
+### Functions of the Software:
 
 The baking app will have the following functions:
 
@@ -31,6 +31,6 @@ The baking app will have the following functions:
 
 
 
-**Unique Selling Proposition:**
+#### Unique Selling Proposition:
 
 Our app's unique selling proposition is that it provides a personalized and easy-to-use platform for novice cooks to learn how to cook and recommend recipes based on their preferences and dietary restrictions. With our app, users can build their own customized recipe book, learn new cooking techniques, and connect with a community of like-minded individuals who share their passion for cooking. This value proposition will appeal to our target user persona by providing them with a solution that helps them overcome their lack of cooking skills and confidently create delicious meals that fit their dietary needs and preferences.
