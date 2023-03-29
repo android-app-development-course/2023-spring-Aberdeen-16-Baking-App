@@ -68,24 +68,24 @@ The app may face legal issues if it uses copyrighted content without permission.
 
 To reach our target audience, we will use the following marketing channels:
 
-- Social Media Marketing:  We will leverage social media platforms such as Weibo, Wechat and so on to promote our app and reach our target audience. We will create engaging and informative content that showcases the benefits of using locally sourced produce and the features of our app.
+- ***Social Media Marketing:*** We will leverage social media platforms such as Weibo, Wechat and so on to promote our app and reach our target audience. We will create engaging and informative content that showcases the benefits of using locally sourced produce and the features of our app.
 
-- Influencer Marketing:  We will collaborate with influencers in the health and wellness space to promote our app and reach a wider audience. We will work with influencers who share our values and can help us reach our target audience.
+- ***Influencer Marketing:*** We will collaborate with influencers in the health and wellness space to promote our app and reach a wider audience. We will work with influencers who share our values and can help us reach our target audience.
 
-- App Store Optimization:  We will optimize our app for the app store by using relevant keywords, creating a compelling app description, and using high-quality visuals. This will improve the visibility of our app and increase downloads.
+- ***App Store Optimization:*** We will optimize our app for the app store by using relevant keywords, creating a compelling app description, and using high-quality visuals. This will improve the visibility of our app and increase downloads.
 
-- Partnerships:  We will form partnerships with local farmers and food markets to promote our app and encourage the use of locally sourced produce. We will work with our partners to create exclusive deals and promotions for our app users.
+- ***Partnerships:*** We will form partnerships with local farmers and food markets to promote our app and encourage the use of locally sourced produce. We will work with our partners to create exclusive deals and promotions for our app users.
 
 ## Financial Key Metrics:
 In order to ensure the success of our mobile app, it is important to keep track of certain financial key metrics. These metrics will help us determine if we are meeting our goals and making a profit. Some key metrics we will be tracking include:
 
-- User Acquisition Cost (UAC): This is the cost of acquiring each new user. We will aim to keep our UAC low to ensure that our marketing efforts are cost-effective.
+- ***User Acquisition Cost (UAC):*** This is the cost of acquiring each new user. We will aim to keep our UAC low to ensure that our marketing efforts are cost-effective.
 
-- Customer Lifetime Value (CLV): This is the total revenue we expect to generate from each user over the course of their lifetime using our app. We will aim to increase our CLV through upselling and offering premium features.
+- ***Customer Lifetime Value (CLV):*** This is the total revenue we expect to generate from each user over the course of their lifetime using our app. We will aim to increase our CLV through upselling and offering premium features.
 
-- Average Revenue Per User (ARPU): This is the average amount of revenue generated per user. We will aim to increase our ARPU through effective monetization strategies.
+- ***Average Revenue Per User (ARPU):*** This is the average amount of revenue generated per user. We will aim to increase our ARPU through effective monetization strategies.
 
-- Monthly Active Users (MAU): This is the number of users who actively use our app each month. We will aim to increase our MAU through effective marketing and user retention strategies.
+- ***Monthly Active Users (MAU):*** This is the number of users who actively use our app each month. We will aim to increase our MAU through effective marketing and user retention strategies.
 
 ## Channels to Validate an App:
 
