@@ -3,7 +3,7 @@
 # Content
 
 - [Introduction](#introduction)
-- [Functions of the Software](#functions-of-the-software)
+- [Inovation](#inovation)
 - [Unique Selling Proposition](#unique-selling-proposition)
 - [Target User Persona](#Target-User-Persona)
 - [Marketing Channels](#Marketing-Channels)
