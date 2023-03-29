@@ -48,7 +48,7 @@ Our target user persona is health-conscious individuals who are interested in su
 
 ### SWOT Analysis:
 
-Strengths:
+**Strengths:**
 The app provides a unique solution to a common problem faced by people who want to learn how to bake.
 The app has a simple and user-friendly interface.
 The app provides a variety of recipes, from beginner level to advanced level.
@@ -64,3 +64,4 @@ The app can partner with baking equipment manufacturers to promote their product
 Threats:
 The baking market is highly competitive, with many established players.
 The app may face legal issues if it uses copyrighted content without permission.
+
