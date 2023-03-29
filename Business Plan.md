@@ -1,4 +1,4 @@
-# BakeMate
+# BakeMate Business Plan
 
 # Content
 
