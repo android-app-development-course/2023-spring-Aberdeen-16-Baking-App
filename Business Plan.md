@@ -41,3 +41,26 @@ The baking app will have the following functions:
 ## Unique Selling Proposition:
 
 Our app's unique selling proposition is that it provides a personalized and easy-to-use platform for novice cooks to learn how to cook and recommend recipes based on their preferences and dietary restrictions. With our app, users can build their own customized recipe book, learn new cooking techniques, and connect with a community of like-minded individuals who share their passion for cooking. This value proposition will appeal to our target user persona by providing them with a solution that helps them overcome their lack of cooking skills and confidently create delicious meals that fit their dietary needs and preferences.
+
+
+## Target User Persona:
+Our target user persona is health-conscious individuals who are interested in supporting local farmers and making sustainable food choices. This includes individuals who are passionate about cooking and want to use fresh, high-quality ingredients in their meals. Our target audience also includes people who are concerned about the environmental impact of food production and want to reduce their carbon footprint.
+
+### SWOT Analysis:
+
+Strengths:
+The app provides a unique solution to a common problem faced by people who want to learn how to bake.
+The app has a simple and user-friendly interface.
+The app provides a variety of recipes, from beginner level to advanced level.
+
+Weaknesses:
+The app will require a significant amount of content creation to keep users engaged.
+The app may not be able to provide a personalized experience for users.
+
+Opportunities:
+The app can be marketed through social media platforms, such as Facebook and Instagram.
+The app can partner with baking equipment manufacturers to promote their products.
+
+Threats:
+The baking market is highly competitive, with many established players.
+The app may face legal issues if it uses copyrighted content without permission.
