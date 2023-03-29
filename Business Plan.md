@@ -26,15 +26,15 @@ The purpose of this business plan is to outline the development and launch of a 
 
 The baking app will have the following functions:
 
--Recipes: The app will provide a variety of baking recipes, from beginner level to advanced level, with step-by-step instructions.
+- Recipes: The app will provide a variety of baking recipes, from beginner level to advanced level, with step-by-step instructions.
 
--Videos: The app will provide video tutorials for each recipe, which will make it easier for users to understand the process.
+- Videos: The app will provide video tutorials for each recipe, which will make it easier for users to understand the process.
 
--Shopping List: The app will generate a shopping list for the recipe selected by the user.
+- Shopping List: The app will generate a shopping list for the recipe selected by the user.
 
--Timer: The app will have a built-in timer, which will help users keep track of the baking time.
+- Timer: The app will have a built-in timer, which will help users keep track of the baking time.
 
--Feedback and Rating: The app will allow users to rate and provide feedback on the recipes they have tried.
+- Feedback and Rating: The app will allow users to rate and provide feedback on the recipes they have tried.
 
 
 
