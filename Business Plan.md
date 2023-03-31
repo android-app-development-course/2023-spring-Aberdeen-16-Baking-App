@@ -3,7 +3,7 @@
 # Content
 
 - [Introduction](#introduction)
-- [Inovation](#inovation)
+- [Innovation](#innovation)
 - [Unique Selling Proposition](#unique-selling-proposition)
 - [Target User Persona](#Target-User-Persona)
 - [Marketing Channels](#Marketing-Channels)
@@ -21,7 +21,7 @@ The purpose of this business plan is to outline the development and launch of a 
 
 
 
-## Inovation:
+## Innovation:
 
 The baking app will have the following functions:
 
